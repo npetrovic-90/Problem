@@ -6,8 +6,8 @@ namespace Problem
 	class CustomList
 	{
 		//list of elements
-		List<int> list1 = new List<int>(new int[] { 1, 8, 15, });
-		List<int> list2 = new List<int>(new int[] { 2, 7, 12, });
+		List<int> list1 = new List<int>(new int[] { 1, 8, 15, 16, 35 });
+		List<int> list2 = new List<int>(new int[] { 2, 7, 12, 40 });
 		List<int> list3 = new List<int>(new int[] { 10, 13, 14, });
 		//iterators for each list
 		int i = 0;
